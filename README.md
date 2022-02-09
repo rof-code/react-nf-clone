@@ -1,6 +1,6 @@
 # Welcome to my React Netflix Clone
 
-Hi this test was developed for the Assurance IT **StackEdit**.
+Hi this test was developed for the Assurance IT.
 
 
 # Yarn 🐱

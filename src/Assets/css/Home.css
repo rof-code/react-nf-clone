@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  background-color: #131313;
+  overflow-x: hidden;
+}
+.n-red {
+  color: #e50914;
+}
